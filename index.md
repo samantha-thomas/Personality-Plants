@@ -9,4 +9,6 @@ Personality Plants is a simple game for those who not only enjoy plants but for 
 - _Gain experiance to level up to collext new plants!_
 - _The best part: no cats to destory your plants!_
 
+//Place pictures here.
+
 ##### Download the app here: 
