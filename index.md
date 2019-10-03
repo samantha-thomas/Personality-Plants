@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Personality Plants
 
-You can use the [editor on GitHub](https://github.com/samantha-thomas/Personality-Plants/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Personality Plants is a simple game for those who not only enjoy plants but for those who like something to unwind to. Enjoy each plant's custom personality, collect new plants, learn to take care of each plant's special needs, and watch your little green friends flourish! Be careful though, giving your plants improper care could cause them to get sick! 
 
 ### Markdown
 
