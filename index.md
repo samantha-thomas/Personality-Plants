@@ -7,3 +7,6 @@ Personality Plants is a simple game for those who not only enjoy plants but for 
 - _Get unique and exotic plants that you may not be able to have at home._
 - _Discover what each one likes, such as lots of sunlight or a little sunlight._
 - _Gain experiance to level up to collext new plants!_
+- _The best part: no cats to destory your plants!_
+
+##### Download the app here: 
