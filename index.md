@@ -11,4 +11,9 @@ Personality Plants is a simple game for those who not only enjoy plants but for 
 
 //Place pictures here.
 
-##### Download the app here: 
+###### System Requirements: iOS (version)
+###### App Type: Game
+###### App Rating: 9+
+
+
+#### Download the app here: 
