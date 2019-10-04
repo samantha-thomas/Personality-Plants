@@ -16,4 +16,4 @@ Personality Plants is a simple game for those who not only enjoy plants but for 
 ###### App Rating: 9+
 
 
-#### Download the app here: 
+#### Download the app [here] 
